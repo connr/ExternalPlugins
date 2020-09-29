@@ -43,7 +43,7 @@ public enum Spells
 	WIND_STRIKE("Wind Strike", WidgetInfo.SPELL_WIND_STRIKE),
 	WIND_SURGE("Wind Surge", WidgetInfo.SPELL_WIND_SURGE),
 	WIND_WAVE("Wind Wave", WidgetInfo.SPELL_WIND_WAVE),
-	TELE_GRAB("Tele Grab", WidgetInfo.SPELL_TELE_GRAB),
+	TELEKINETIC_GRAB("Telekinetic Grab", WidgetInfo.SPELL_TELEKINETIC_GRAB),
 
 	//Curses
 	CHARGE("Charge", WidgetInfo.SPELL_CHARGE),
